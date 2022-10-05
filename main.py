@@ -1,5 +1,4 @@
-from fanction import new_contact
-from decision import read_book
+from decision import new_contact, read_book
 
 book = input('Что вам требуется: \n0 - новый контакт\n1 - просмотр книги \n')
 
